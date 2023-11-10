@@ -1,0 +1,124 @@
+*{
+  padding: 0;
+  margin: 0;
+box-sizing: border-box;
+  font-style: normal;
+
+}
+
+
+
+.navbar{
+  width: 1000px;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+  flex-direction: row;
+  
+  background-color: white;
+  border: 1px solid white;
+  justify-content: space-between;
+margin: auto;
+  
+  
+
+
+}
+.third{
+  margin: auto;
+  background-color: rgb(20, 116, 92);
+  width: 1100px;
+  position: relative;
+height: 460px;
+
+}
+body{
+  background-color: white;
+  
+}
+.ul1{
+  list-style: none;
+}
+.li1{
+  float: left;
+ 
+}
+.listdiv{
+ margin-top: 1px;
+
+}
+a{
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+
+}
+.namediv{
+ margin-top: 6px;
+ 
+}
+.buttondiv{
+ 
+ 
+}
+.description{
+
+  margin: auto;
+  background-color: rgb(211, 223, 223);
+  width: 1100px;
+  position: relative;
+height: 460px;
+}
+.yogaicon{
+  width: 50px;
+  position: relative;
+  left: 60px;
+  top: 60px;
+}
+body{
+  background-color: rgb(167, 211, 199);
+}
+.programs{
+  width: 950px;
+  height: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  
+}
+.programs2{
+  box-sizing: content-box;
+  width: 970px;
+  height: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+gap: 30px;
+  
+}
+.tutorial{
+  background-color: rgb(20, 116, 92);
+  width: 970px;
+  height: 310px;
+  margin: auto;
+  margin-top: 60px;
+  position: relative;
+  box-sizing: content-box;
+}
+.last{
+margin: auto;
+  background-color: rgb(240, 240, 240);
+  width: 1100px;
+  position: relative;
+height: 400px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-left: 60px;
+padding-right: 60px;
+}
+li{
+  margin-top: 6px;
+}
